@@ -1,0 +1,26 @@
+# ---- never publish -------------------------------------------------------
+CLAUDE.md
+notes/
+scratch/
+*.log
+
+# ---- point-cloud formats: ignore everything except the shipped samples ---
+*.ply
+*.las
+*.laz
+*.e57
+!data/*.ply
+
+# ---- pipeline output (created at run time) -------------------------------
+out/
+output/
+*.npy
+*.npz
+
+# ---- python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store

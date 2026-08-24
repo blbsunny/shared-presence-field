@@ -1,0 +1,11 @@
+{
+  "title": "Shared Presence Field",
+  "description": "Analysis code for the Shared Presence Field: measuring how much of a building population is gathered at a location, directly from 3D point clouds.",
+  "license": "MIT",
+  "upload_type": "software",
+  "creators": [
+    { "name": "Sun, Meng", "affiliation": "Kyoto Institute of Technology" }
+  ],
+  "keywords": ["point cloud", "collective form", "architectural morphology", "vernacular settlement", "digital heritage"],
+  "grants": [{ "id": "JPMJSP2107" }]
+}

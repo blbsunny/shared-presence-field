@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: Shared Presence Field
+message: >-
+  If you use this software, please cite both the software and the paper it
+  accompanies.
+type: software
+authors:
+  - family-names: Sun
+    given-names: Meng
+    affiliation: Kyoto Institute of Technology
+repository-code: "https://github.com/blbsunny/shared-presence-field"
+license: MIT
+version: 1.0.0
+date-released: "2026-08-24"
+keywords:
+  - point cloud
+  - collective form
+  - architectural morphology
+  - vernacular settlement
+  - digital heritage
+preferred-citation:
+  type: conference-paper
+  title: "Shared Presence Field: Measuring Collective Form in Heritage Point Clouds"
+  authors:
+    - family-names: Sun
+      given-names: Meng
+    - family-names: Kinoshita
+      given-names: Masahiro
+  collection-title: "ISAIA 2026"
+  year: 2026
